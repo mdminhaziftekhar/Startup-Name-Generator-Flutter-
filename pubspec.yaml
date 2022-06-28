@@ -1,5 +1,5 @@
-name: doc1
-description: A new Flutter project.
+name: startup_name_generator
+description: Startup Name generator generates random words for startups and also scrolls infinitely. It's my first project done using Flutter and Dart.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
